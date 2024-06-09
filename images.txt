@@ -1,1 +1,2 @@
 linuxserver/resilio-sync
+xiaoyaliu/glue
