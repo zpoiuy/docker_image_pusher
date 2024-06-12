@@ -1,1 +1,2 @@
 jlesage/firefox:latest
+xianwei2022/stars.client
